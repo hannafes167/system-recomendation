@@ -70,8 +70,8 @@ File ratings
 - user_id:	ID pengguna yang memberi rating.
 - rating:	Nilai rating yang diberikan oleh pengguna (biasanya dari 1–5).
   
-**Memahami Data:**
-  - Terdapat missing values pada kolom: (isbn: 700, isbn13: 585, original_publication_year: 21, original_title: 585, language_code: 1.084
+**Kondisi Data:**
+  - Terdapat missing values pada kolom: (isbn: 700, isbn13: 585, original_publication_year: 21, original_title: 585, language_code: 1.084)
   - Jumlah pengguna unik: 53.424
   - Jumlah buku unik yang diberi rating: 10.000
   - Visualisasi:
