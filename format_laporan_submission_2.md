@@ -171,4 +171,4 @@ Pada tahap evaluasi, dilakukan pengukuran performa model rekomendasi untuk dua p
 ## References
 Ricci, F., Rokach, L., & Shapira, B. (Eds.). (2011). Introduction to recommender systems handbook. Springer.
 
-Towards Data Science. (n.d.). Building a recommendation system. Retrieved April 30, 2025, from https://towardsdatascience.com/building-a-recommendation-system-xxxxx
+Towards Data Science. (n.d.). Building a recommendation system. Retrieved April 30, 2025, from https://towardsdatascience.com/building-a-recommendation-system
