@@ -140,7 +140,10 @@ Pada tahap evaluasi, dilakukan pengukuran performa model rekomendasi untuk dua p
    
    Rumus:
    
-   Precision@K = (Jumlah item relevan dalam K rekomendasi teratas) / K
+   $$
+\text{Precision@K} = \frac{\text{Jumlah item relevan dalam K rekomendasi teratas}}{K}
+$$
+
    
    Dalam evaluasi menggunakan data pengguna ID 23637, diperoleh hasil:
    
